@@ -1,7 +1,7 @@
 {
-  "name": "@stencil/redux",
+  "name": "@novaal/redux",
   "version": "0.0.4",
-  "description": "Stencil Redux - A simple redux-connector for Stencil-built web components",
+  "description": "",
   "main": "dist/index.js",
   "module": "dist/esm/es5/index.js",
   "types": "dist/types/index.d.ts",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-redux.git"
+    "url": "git+https://github.com/Novaal/stencil-redux.git"
   },
   "devDependencies": {
     "@stencil/core": "^0.16.1",
@@ -29,11 +29,8 @@
     "np": "^2.20.1",
     "ts-jest": "^20.0.14"
   },
-  "author": "Ionic Team",
+  "author": "Thilo Leise",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ionic-team/stencil-redux"
-  },
   "jest": {
     "moduleFileExtensions": [
       "ts",
@@ -45,5 +42,5 @@
     },
     "testRegex": "/__tests__/.*(test|spec)\\.(ts|tsx)$"
   },
-  "homepage": "https://github.com/ionic-team/stencil-redux"
+  "homepage": "https://github.com/Novaal/stencil-redux"
 }
